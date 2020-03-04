@@ -2,8 +2,8 @@ version: 0.1
 
 env:
   secrets-manager:
-     - aws_access_key: AKIA2MM4TOJXYVJ6KEUL
-     - aws_secret_key: 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
+     - aws_access_key:AKIA2MM4TOJXYVJ6KEUL
+     - aws_secret_key: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
      # key: secret-id:json-key:version-stage:version-id
      # key: secret-id:json-key:version-stage:version-id
 phases:
